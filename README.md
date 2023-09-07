@@ -14,8 +14,7 @@ Welcome to the Quiz Game Python App! This interactive quiz application is design
   5. Presenting Quiz Questions
   Each question will be displayed along with answer choices for multiple-choice questions.
   6. Prompting User to Select an Answer
-  For multiple-choice questions, you'll be prompted to select an answer by entering the corresponding choice (e.g., A, B, C, D).
-  For fill-in-the-blank questions, you'll simply type in your answer.
+  For multiple-choice questions, you'll be prompted to select an answer by entering the corresponding choice, you'll simply type in your answer.
   7. Evaluating the User's Answer
   The app will compare your answer with the correct answer for each question.
   Your score will be updated based on whether your answer is correct or incorrect.
